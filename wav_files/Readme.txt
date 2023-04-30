@@ -1,0 +1,1 @@
+dataset that we had used had 25227 .wav files, we constitute huge space of nearly 25GB so we are placing some of them as reference, whole datasets can be extracted from audio_retrieval.ipynb file.
