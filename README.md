@@ -1,3 +1,4 @@
+# Intro to Machine Learning Project 
 ## Instructions
 1. First, the audio wav files need to be downloaded using the tool [yt-dlp](https://www.mankier.com/1/yt-dlp). For this run [`audio_retrieval.ipynb`](https://drive.google.com/file/d/1Q4RsKFqIIkKJ_Q8shg88WK1lZbSWgClm/view?usp=share_link). Note that the each file is about 880 KB, totally upto 25.3 GB!
 2. Next, generate MEL spectrograms by running `generate_spectrograms.py`. If needed, you may modify the same file to change the Short Time Fourier Transform (STFT) parameters.
